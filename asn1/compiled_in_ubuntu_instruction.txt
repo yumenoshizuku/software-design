@@ -1,0 +1,19 @@
+in Linux:
+
+
+
+javac -d ./classes source/cscie97/asn1/test/*.java source/cscie97/asn1/knowledge/engine/*.java
+
+
+
+cd classes && java cscie97.asn1.test.TestDriver inputTriples.nt sampleQuery.nt
+
+
+
+in Windows:
+
+javac -d .\classes source\cscie97\asn1\test\*.java source\cscie97\asn1\knowledge\engine\*.java
+
+
+cd classes && java cscie97.asn1.test.TestDriver inputTriples.nt sampleQuery.nt
+

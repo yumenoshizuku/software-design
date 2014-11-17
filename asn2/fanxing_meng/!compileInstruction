@@ -1,0 +1,5 @@
+javac -d . cscie97/asn2/test/*.java cscie97/asn2/ecommerce/product/*.java
+
+
+
+java -cp . cscie97.asn2.ecommerce.test.TestDriver countries.csv devices.csv products.csv queries.csv

@@ -1,0 +1,3 @@
+javac -d . cscie97/asn3/test/*.java cscie97/asn3/ecommerce/product/*.java cscie97/asn3/ecommerce/collection/*.java 
+&& 
+java cscie97.asn3.test.TestDriver countries.csv devices.csv products.csv queries.csv collections.csv

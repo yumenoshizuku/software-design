@@ -1,0 +1,64 @@
+Starbucks sells Coffee.
+
+<null>
+
+Starbucks sells Donuts.
+
+<null>
+
+Starbucks sells ?.
+
+Starbucks sells Coffee.
+
+Starbucks sells Cake.
+
+? has_store_location HarvardSquare.
+
+Starbucks has_store_location HarvardSquare.
+
+HarvardCoop has_store_location HarvardSquare.
+
+Lucy ? ?.
+
+Lucy plays_sport Soccer.
+
+Lucy lives_near HarvardSquare.
+
+Lucy likes_to_eat Cake.
+
+Lucy works_at HarvardCoop.
+
+Lucy works_with Joe.
+
+Lucy plays_instrument Guitar.
+
+Lucy has_friend Joe.
+
+Lucy works_at Starbucks.
+
+Joe plays_sport ?.
+
+Joe plays_sport Cricket.
+
+Joe plays_sport Soccer.
+
+Lucy plays_sport ?.
+
+Lucy plays_sport Soccer.
+
+? plays_sport ?.
+
+Lucy plays_sport Soccer.
+
+Joe plays_sport Cricket.
+
+Joe plays_sport Hockey.
+
+Joe plays_sport Soccer.
+
+? sells Coffee.
+
+Starbucks sells Coffee.
+
+HarvardCoop sells Coffee.
+

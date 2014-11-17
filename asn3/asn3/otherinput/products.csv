@@ -1,0 +1,20 @@
+#content_type, content_id, content_name, content_description, author, rating, categories, export_countries,supported_devices,price, supported_languages, image_url, application_size
+
+application, a1, Angry Birds Seasons, Angry Birds Seasons, Rovio, 5, game|kids,US|CA|MX,iphone_5|iphone_6|lumina,1.5,en_us|en_ca|en_gb, http://web-assets.angrybirds.com/abcom/img/games/223/Icon_download_seasons_223x223.png,564
+
+ringtone, rt1, Ferrari 575M Maranello - 2002,This ringtone is a unique and exclusive recording of the 2002 Ferrari 575M Maranello being driven to its limits!,Nutbags,4,car|racing,US|CA|MX|AF|AL,lumina,0.0,en_us|en_ca|en_gb,http://p.d.ovi.com/p/g/store/1492679/_02_Ferrari_575M_Maranello-192x192.png
+
+application, Yahoo!_Sports, Yahoo! Sports, Sportacular is now Yahoo! Sports - Simple fast and in-depth sports scores and news, Yahoo!, 4, sports, US|CA|MX, iphone_5|iphone_6|lumina, 0.0, en_us|en_gb, http://a4.mzstatic.com/us/r30/Purple/v4/80/84/3f/80843ff9-732f-c865-8903-a563e2e3d172/mzl.mafrslqm.175x175-75.jpg, 37400
+
+application, Score_Center, Score Center, ESPN ScoreCenter brings you scores news and standings from sports leagues around the world, ESPN Inc, 5, sports, US|CA|MX, iphone_5|iphone_6|lumina, 0.0, en_us|en_gb, https://lh3.ggpht.com/YPRbjg1sofJ0cjetFoVNZlx4oaNjkmnezWVoba-D9XxR1e2DKhHFgBbsx5xfooLIeSo=w300, 3400
+
+application, Cricbuzz_Cricket, Cricbuzz Cricket Scores & News, The No. 1 Cricket App, Cricbuzz.com, 5, sports, US|GB|AU|NZ, galaxy_s3|galaxy_s4|lumina, 0.0, en_us|en_gb, https://lh5.ggpht.com/3z09fC48t4igPsjnohFu1Zbm1POROtwBRR4pAC4ZpDR5ZCyf0xIx3e3oHAZjdhivgQ=w300-rw, 3000
+
+application, ESPNcricinfo, The ESPNcricinfo Cricket App, The official ESPNcricinfo Cricket app is all that you need to keep yourself updated with the latest scores, ESPN Digital, 4, sports, US|GB|AU|NZ, galaxy_s3|galaxy_s4|iphone_5|iphone_6, 0.0, en_us|en_gb, https://lh3.ggpht.com/PyYNI6hw8Xv1nhsLyH-wUF8yE403KjwZwy1qOWegWCBnzPSkqLWIv3jDN6DOi8xa61SU=w300, 14000
+
+application, Sky_Sports, Sky Sports Mobile, Get the latest sports news views and video in the palm of your hand with Sky Sports, BSkyB, 4, sports, US|GB|MX, iphone_5|iphone_6, 5.0, en_us|en_gb, http://img.skysports.com/12/03/Others/597655.jpg, 3700
+
+application, Fox_Soccer, FOX Soccer 2Go, Watch over 1200 live and on demand games during the 2013 season, FOX Sports Channel, 3, sports, US|GB, iphone_5|iphone_6|htc_one, 0.0, en_us|en_gb, https://lh4.ggpht.com/ngCmefER24781U4OeTiOMXk7lDMZ4PS6ez1ioBmmR9rKkhs3PH_pxNwVsM--mJAmFCk=w300, 1700
+
+application, LiveScore, LiveScore, Live scores directly from the source the 1st live score service on the Internet, LiveScore Ltd., 4, sports, US|MX, iphone_5|glass|nexus, 0.0, en_us, https://lh3.ggpht.com/t8N0i7KqR8FaiP5gv3zpsSs8d5O3MVxuGSyMQDKx3WotiVIXTxI9fg4fQR8fTZoT2w=w300, 4600
+
